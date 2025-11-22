@@ -58,7 +58,7 @@ npm install
 ### 3. Set Up Spotify API
 1. Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
 2. Create a new app
-3. Add `http://localhost:3000/api/auth/callback/spotify` to Redirect URIs
+3. Add `http://localhost:3000/api/auth/callback/spotify` to Redirect URIs or use `http://127.0.0.1:3000/api/auth/callback/spotify`
 4. Copy your Client ID and Client Secret
 
 ### 4. Configure Environment Variables
@@ -70,7 +70,7 @@ SPOTIFY_CLIENT_ID=your_client_id_here
 SPOTIFY_CLIENT_SECRET=your_client_secret_here
 
 # NextAuth Configuration
-NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_URL=http://localhost:3000 or run http://127.0.0.1:3000 if you have used **http://127.0.0.1:3000** above in your app setup in spotify developer dashboard
 NEXTAUTH_SECRET=your_nextauth_secret_here
 ```
 
@@ -84,7 +84,8 @@ openssl rand -base64 32
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:3000](http://localhost:3000) in your browser. or 
+Open [http://127.0.0.1:3000](http://127.0.0.1:3000) in your browser
 
 ## 📖 How to Use
 
@@ -189,7 +190,8 @@ Contributions are welcome! Feel free to:
 
 ## 📧 Support
 
-For issues or questions, please open an issue on GitHub.
+For issues or questions, please open an issue on GitHub. or reach out to me on 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganguly-aniruddha)
 
 ---
 
