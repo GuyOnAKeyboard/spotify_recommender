@@ -190,7 +190,7 @@ Contributions are welcome! Feel free to:
 
 ## 📧 Support
 
-For issues or questions, please open an issue on GitHub. or reach out to me on 
+For issues or questions, please open an issue on GitHub. or reach out to me on  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganguly-aniruddha)
 
 ---
