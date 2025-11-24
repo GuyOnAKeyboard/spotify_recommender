@@ -46,7 +46,7 @@ When you select instrumental genres (Lofi, Chill, Ambient, etc.), the app automa
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/spotify_recomender.git
+git clone https://github.com/GuyOnAKeyboard/spotify_recommender.git
 cd spotify_recomender
 ```
 
